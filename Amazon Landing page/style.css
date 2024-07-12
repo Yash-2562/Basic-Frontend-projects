@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.navbar{
+    height: 70px;
+    background-color: rgb(183, 230, 42);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+    /* padding-left: -20px;\margin: ; */
+    
+    
+    
+    
+}
+.logo{
+    padding-bottom: 40px;
+    background-image: url("pngegg.png");
+    height: 30px;
+    background-size: cover;
+    width: 100px;
+    margin-top: -20px;
+    
+}
+
+.nav-address{
+    padding-top: 10px;
+    
+    
+}
+.border:hover{
+    border: 3px solid rgb(22, 164, 174);
+}
+.search-icon:hover{
+    border-radius: 5px;
+    border: 2px solid rgb(22, 164, 174);
+}
+.nav-search{
+    display: flex;
+    background-color: pink;
+    border-radius: 4px;
+    width: 800px;
+    height: 40px;
+    
+
+    
+}
+.nav-search:hover{
+    border: 2px solid rgb(22, 164, 174);
+}
+#box0{
+    background-color: rgb(233, 201, 190);
+    width: 50px;
+    text-align: center;
+    border-top-left-radius:4px ;
+    border-bottom-left-radius:4px ;
+    border: none;
+
+    
+
+}
+#box1{
+    width: 700px;
+    font-size: 1rem;
+    border: none;
+    /* border-style: dotted; */
+}
+.search-icon{
+    width: 45px;
+    /* align-items: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(158, 129, 137); */
+}
+.cart i{
+    font-size: 30px;
+    
+    
+}
+.cart {
+    font-size: 20px;
+    
+    
+}
+.yad{
+    height: 30px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: honeydew;
+}
+.u p{
+    display: inline;
+    margin-right: 20px;
+}
+.u{
+    width: 70%;
+}
+img{
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.d{
+    height: 40px;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: bisque;
+    margin-left: 15%;
+    margin-bottom: -30%;
+
+    
+}
